@@ -22,66 +22,36 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+# Özet (
+Invent yourself Pişmemiş bir tavuk yumurtası için sabit yüksekliği 2,5 Metreden güvenli bir iniş sağlayacak pasif bir cihaz oluşturulmalıdır. Cihaz yumurta ile birlikte düşmelidir. Projenin asıl amacı elde edilecek cihazın en minimum boyuta en doğru yöntemlerle indirgenmesini sağlamaktır. 2,5 metre yükseklikten yumurta ile bırakılacak olan cihaz son derece hafif olmalıdır. bunun nedeni ise cihaz ne kadar ağır olursa düşme şiddeti o kadar artar . bu durumu En aza indirgemek için hafiflik şarttır. Cihazın kullanım amacı gereği önemli bir diğer unsur ise esnekliktir. Cihaz ne kadar esnek olursa cihazın yere çarpımı daha yumuşak olacağından yumurtanın kırılma olasılığı azalır. Cihaz oldukça dayanıklı olmalıdır. Çünkü cihaz ne kadar dayanıklı olursa düşen yumurtanın kırılmasını o derece Önler. Cihazın şekli yumurtayı en iyi muhafaza edebilecek şekilde olmalıdır. Yapılan deneylerden sonra cihaz için en uygun olan geometrik şekil ve yumurta ile cihaz arasındaki boşluk miktarının ne oranda olacağı belirlenecektir. Deneyin uygulanacağı ortamda bağımsız değişken cihaz olup, cihaz dışındaki diğer bütün etkenler kontrol altında sabit tutulup cihaz ve yumurta için en uygun ortam sağlanacaktır.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Projemiz olan  yumurta deneyinin amacı  yumurtayı en güvenli bir şekilde 2,5 metre yükseklikten kırılmadan yere indirmektir bu kırılmaları azaltmak için de en az ürün ve en az maliyetli bir araç tasarlamak gerek .
+Bu deney tasarlanırken Yerçekimi hız ağırlık gibi etmenler düşünülmelidir .
+Yumurtanın zarı çok ince olduğu için yumurta yiyen güvenli bir şekilde yere indirmek da zorlaştı .
+Tasarladığınız ürünün maddeleri hafif yumuşak ve korunaklı olması gerekmektedir .
+Yapacağımız deneyde daha çok hava direncini arttıran Geniş yüzeyli maddeler ve yumurtayı koruyacak şekilde bir ürün olması gerekmektedir .
+yaptığımız bir çokta neyden bu gibi sorunları göz önüne alarak ürün tasarlamaya çalıştık .
+Tasarladığınız bir üründe de bu başarıyı elde ettik .
+Kaynakçı olarak örnek aldığımız videolar da aynı amacı güderek  bir ürün tasarladılar bizde  ileride yapacağımız deneylerde daha teknolojik ve daha korunaklı bir ürün elde etmeye başlıyoruz .
+
 # Materyal ve Yöntem (Experimental Setup)
-
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+ 5 adet yumurta
+ 1 adet orta boy doktor eldiveni
+ 6 adet balon
+ 10 santim yünipi.
+Bu deneylerde kullandığımız malzemelerde de görüldüğü gibi  çoğu zaman balon kullandık Çünkü balon hem hafif hem de hava hava direncini artırıyor . Bu sayede yumurta güvenli bir şekilde indirmeye çalıştık.
+Deneyi yaptığımız ortam okul bahçesinin 2,5 metre yüksekliğe olan tören alanında yaptık.
+Grup arkadaşları ile birlikte ortaklaşa çalışıp projeyi tamamladık .
+Çalışma yöntemimiz olarak YouTube'da bululan yabancı uyruklu insanlar tarafından yayınlanan videoları  örnek aldık.
+Grup çalışması yaparak Ben deneyi yaparken diğer arkadaş video çekip  öteki arkadaş da resim çekti.
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
-
-
+Yaptığımız 4 deney sonucunda üçü başarısız olup biri başarılı olmuştur .
+Bir deneyde yaptığımız yumurtayı tek başına atma olayında yumurta tek başına olduğu için kırılmıştır .
+Yaptığımız 2 derece yumurtayı Doktor eldivenin içine koyduktan sonra bıraktığımız yükseklikten yere düştüğünde yeni kırılmıştır .
+Yaptığımız 3 deney sonucunda yumurtaya tek bir balon bağladıktan sonra bıraktık bırakmanın sonucu olarak yumurta kırıldı .
+Yaptığınız 4 deney sonucunda 4 Balon ile kuruduktan sonra bıraktığımız yükseklik sonucunda korunaklı olarak yere inmiştir deneyimiz başarı ile tamamlamıştır.
+Sonuç olarak yaptığımız 4 deney sonucunda ürünlerin hafif hava direncini arttıran ve yumurtayı yukarıda Tutabilecek ürünler olması gerektiğini anladık .
+nerede yapacağımız deneyler de bu özelliklere sahip ürünler kullanarak daha dayanıklı maddeler üretmiyor çalışacağız .
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
